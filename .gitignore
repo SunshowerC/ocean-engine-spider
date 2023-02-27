@@ -1,0 +1,13 @@
+
+
+node_modules/
+
+test/
+
+.DS_Store
+.git
+.history
+
+*.zip
+
+dist/
